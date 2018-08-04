@@ -1,0 +1,28 @@
+h1 {
+	color:#FF1589;
+/*	border:
+	color
+	width
+	style*/
+/*	border-color: purple;
+	border-width: 5px;
+	border-style: solid;
+*/
+	border: 8px dashed rgba(83, 58, 145, .8);
+}
+
+li {
+	color:rgb(170, 25, 78);
+}
+
+h4 {
+	color:rgba(83, 58, 145, .8);
+	background: rgb(255, 100, 30);
+}
+
+body {
+	background: pink
+/*	background: url(https://cdn.shopify.com/s/files/1/0241/9661/products/WoodGrain_5x5_web_1024x1024.jpg?v=1413867333);
+	background-repeat: no-repeat;
+	background-size: cover;*/
+}
