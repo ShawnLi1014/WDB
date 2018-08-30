@@ -1,0 +1,15 @@
+i.icon {
+    font-size: 2em;
+}
+
+i.regular-size{
+    font-size: 1em;
+}
+
+.container.main{
+    margin-top:7em;
+}
+
+.inlineform{
+    display: inline;
+}
